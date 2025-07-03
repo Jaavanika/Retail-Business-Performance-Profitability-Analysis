@@ -29,6 +29,32 @@ This project analyzes transactional retail data from the Sample Superstore datas
 - Strategic business recommendations based on data insights
 
 ## 📁 Project Structure
+├── data/
+│ └── Sample - Superstore.xls
+├── scripts/
+│ ├── sql_queries.sql
+│ └── analysis_notebook.ipynb
+├── visualizations/
+│ └── tableau_dashboard.twbx
+├── Retail_Business_Profitability_Analysis_Report.docx
+└── README.md
+
+
+
+## 📄 Deliverables
+
+- ✅ Cleaned and enriched dataset (`final_superstore_for_tableau.csv`)
+- ✅ SQL queries for profit analysis
+- ✅ Python code and charts
+- ✅ Tableau dashboard
+- ✅ Final report in DOCX format
+
+## ✅ Outcome
+
+This project empowers business stakeholders with data-driven insights to optimize inventory, increase profitability, and align with seasonal demand more effectively.
+
+---
+
 
 
 
